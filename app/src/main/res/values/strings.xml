@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">infrarojocontrol</string>
+    <string name="power">Power</string>
+    <string name="arriba">Arriba</string>
+    <string name="enter">Enter</string>
+    <string name="izquierda">Izquierda</string>
+    <string name="derecha">Derecha</string>
+    <string name="abajo">Abajo</string>
+</resources>
